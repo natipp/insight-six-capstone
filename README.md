@@ -8,7 +8,6 @@ A Business Intelligence capstone project exploring Calgary 311 waste service req
 - Chelsea D.
 - Marian O.
 - Marjorie T.
-- Nathalia P.
 - Steffi N.
 
 ## Project Goals
