@@ -2,15 +2,6 @@
 
 A Business Intelligence capstone project exploring Calgary 311 waste service requests to identify trends and opportunities to improve service efficiency.
 
-## Project Members
-
-- Asma A.
-- Chelsea D.
-- Marian O.
-- Marjorie T.
-- Nathalia P.
-- Steffi N.
-
 ## Project Goals
 
 - Analyze patterns in waste related service requests.
